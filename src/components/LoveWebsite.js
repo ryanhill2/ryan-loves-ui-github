@@ -14,7 +14,7 @@ const LoveWebsite = () => {
     useEffect(() => {
         // Function to fetch and set the current time and day in both time zones
         const fetchTime = () => {
-            const dublinNow = moment().tz('Europe/Dublin');
+            const dublinNow = moment().tz('Europe/Sligo');
             const melbourneNow = moment().tz('Australia/Melbourne');
 
             const dublinTimeNow = dublinNow.format('HH:mm');

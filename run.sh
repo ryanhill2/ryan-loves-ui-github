@@ -10,7 +10,7 @@ cp -r build/* .
 git add .
 
 # Commit changes with a commit message
-git commit -m "Added home page for Raz and a quiz about me"
+git commit -m "Update home page title and location to Sligo"
 
 # Push changes to remote repository
 git push
