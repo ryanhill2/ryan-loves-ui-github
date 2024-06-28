@@ -1,15 +1,31 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import LoveWebsite from './components/LoveWebsite';
+import Quiz from './components/Quiz';
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
+    const [showQuiz, setShowQuiz] = useState(false);
 
-    Yaz
-      </header>
-    </div>
-  );
+    const handleStartQuiz = () => {
+        setShowQuiz(true);
+    };
+
+    return (
+        <div className="App">
+            <header className="App-header">
+                <h1>Our Love Website</h1>
+            </header>
+            <LoveWebsite />
+            <div>
+                {!showQuiz ? (
+                    <button onClick={handleStartQuiz}>Start Quiz</button>
+                ) : (
+                    <Quiz />
+                )}
+            </div>
+        </div>
+    );
 }
 
 export default App;

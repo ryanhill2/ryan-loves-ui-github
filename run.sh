@@ -10,7 +10,7 @@ cp -r build/* .
 git add .
 
 # Commit changes with a commit message
-git commit -m "Adding new run file"
+git commit -m "Added home page for Raz and a quiz about me"
 
 # Push changes to remote repository
 git push
