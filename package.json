@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ryanhill2.github.io/ryan-loves-ui-github",
+
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
