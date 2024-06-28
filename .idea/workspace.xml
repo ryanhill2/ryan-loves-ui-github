@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5fd0d3-ff2f-41c7-a96d-6f4201c82307" name="Changes" comment="Change default page to say Hi ryan" />
+    <list default="true" id="7d5fd0d3-ff2f-41c7-a96d-6f4201c82307" name="Changes" comment="Add build files to docs folder">
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f855e6bc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f855e6bc.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/453.725cd801.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/453.725cd801.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.1ad198ff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.1ad198ff.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.1ad198ff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +47,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719589013056</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add unversioned files">
+      <option name="closed" value="true" />
+      <created>1719590077910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719590077910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add build files to docs folder">
+      <option name="closed" value="true" />
+      <created>1719590269861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719590269861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,6 +79,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change default page to say Hi ryan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change default page to say Hi ryan" />
+    <MESSAGE value="add unversioned files" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Add build files to docs folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add build files to docs folder" />
   </component>
 </project>
