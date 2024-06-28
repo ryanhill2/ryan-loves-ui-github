@@ -45,7 +45,7 @@ return (
                 <div>
                     <h2>Hubby</h2>
                     <p>
-                        Current Time in Dublin, Ireland: {dublinTime} <br />
+                        Current Time in Sligo, Ireland: {dublinTime} <br />
                         Current Day: {dublinDay}
                     </p>
                 </div>
