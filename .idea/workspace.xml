@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5fd0d3-ff2f-41c7-a96d-6f4201c82307" name="Changes" comment="remove unused images">
+    <list default="true" id="7d5fd0d3-ff2f-41c7-a96d-6f4201c82307" name="Changes" comment="test github actions workflow file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.769dfbdf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.769dfbdf.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.769dfbdf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719591819683</updated>
       <workItem from="1719591821183" duration="226000" />
-      <workItem from="1719592055712" duration="1447000" />
+      <workItem from="1719592055712" duration="2210000" />
     </task>
     <task id="LOCAL-00005" summary="Delete docs folder">
       <option name="closed" value="true" />
@@ -157,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719593504276</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test github actions workflow file">
+      <option name="closed" value="true" />
+      <created>1719593702701</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719593702701</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +180,7 @@
     <MESSAGE value="Update website to say Yaz" />
     <MESSAGE value="Update my index.html file to call the tab react app 1234" />
     <MESSAGE value="remove unused images" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unused images" />
+    <MESSAGE value="test github actions workflow file" />
+    <option name="LAST_COMMIT_MESSAGE" value="test github actions workflow file" />
   </component>
 </project>
